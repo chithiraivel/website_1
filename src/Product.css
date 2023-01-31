@@ -1,0 +1,124 @@
+.box3{
+    border: 1px solid rgb(238, 235, 235);
+    width: 30vh;
+    height: 50vh;
+    position: relative;
+   margin-left: 6vh;
+   box-shadow: 2px 2px 10px rgb(241, 239, 239);
+}
+.box4{
+ position: absolute;
+ top: 2vh;
+ left: 25vh;
+}
+.me-auto{
+    width: 100%;
+}
+.me-auto span{
+    font-size: 2.5vh;
+    margin: 0px 6vh ;   
+    width: 100%; 
+}
+.auto{
+    margin-left: 7vw;
+    margin-top: 6vh;
+}
+.auto2{
+    text-align: center;
+}
+.auto3{
+    font-size: 2vw;
+}
+.head{
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.head2{
+    width: 40vh;
+}
+.head2 span{
+ margin: 4vh 5vh;
+ font-size: 3vh;
+ font-weight: 2vh;
+}
+.head3 span{
+    font-size: 4vh;
+    font-weight: bolder;
+    color: rgb(158, 157, 157);   
+}
+.head4 span{
+    font-size: 4vh;
+    margin: 0px 0px 3vh 5vh;
+}
+.collapse{
+    display: flex;
+    justify-content: space-between;
+}
+.center{
+    width: 100vh;
+}
+.center1 span{
+    margin: 10px 20px;
+}
+.center1 i{
+    color: rgb(163, 159, 159);
+    font-size: 25px;
+}
+.left1 span{
+    margin: 0px 20px;
+    font-size: 22px;
+    font-weight:600;
+}
+.top1{
+    height: 5vh;
+    padding-top: 6vh;
+}
+
+.three span{
+    margin: 10px 50px;
+    font-weight: 500;
+  
+}
+.container-fluid button{
+    font-size:15px;
+    margin-bottom: 30px;
+}
+.foot span{
+    margin: 40px 140px;
+}
+.foot select{
+    height: 35px;
+    width: 250px;
+    border-color: lightgray;
+}
+.foot1{
+    margin-top: 5vh;
+}
+.hover1{
+    height: 50%;
+    width: auto;
+}
+.top-hover{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 20px;
+    background-color: aliceblue;
+}
+.myDiv{
+    text-decoration: underline orange;
+}
+.hello{
+    display:flex;
+    height:10vh;
+    justify-content: space-between;
+    width: 64%;
+    margin-left: 28%;
+   
+}
+.hello select{
+    width: 30vh;
+    height: 6vh;
+    border-color: rgb(236, 233, 233);
+    color: rgb(160, 157, 157);
+}

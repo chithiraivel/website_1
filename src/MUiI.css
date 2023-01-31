@@ -1,0 +1,45 @@
+
+.left_side_bar:hover{
+   color: black;
+   text-decoration: underline;
+}
+.build_thing{
+    margin-top: 9vh;
+    color: rgb(209, 212, 214);
+}
+.icon_list{
+    float: left;
+    margin-left: 3vw;
+    margin-top: 35vh;
+}
+.icon_list ul li{
+    padding: 10px;
+    list-style-type: none;
+    color: rgb(147, 149, 151);
+    transition: width 2s ,heigth 2s;
+}
+.icon_list ul li:hover{
+    width: 60px;
+    height: 60px;
+    color: rgb(114, 240, 114);
+}
+.names{
+    margin-left: 20vw;
+    padding-top: 20vh;
+    color: rgb(147, 149, 151);
+}
+
+.names button{
+    height: 50px;
+    width: 250px;
+    border-color: rgb(53, 192, 134);
+    color:rgb(53, 192, 134) ;
+}
+.line::after {
+    content: "";
+    display: block;
+    width: 1px;
+    height: 100px;
+    margin: 0px auto;
+    background-color: white;
+}
